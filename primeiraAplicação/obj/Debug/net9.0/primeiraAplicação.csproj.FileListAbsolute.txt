@@ -1,0 +1,15 @@
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/bin/Debug/net9.0/primeiraAplicação
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/bin/Debug/net9.0/primeiraAplicação.deps.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/bin/Debug/net9.0/primeiraAplicação.runtimeconfig.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/bin/Debug/net9.0/primeiraAplicação.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/bin/Debug/net9.0/primeiraAplicação.pdb
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.AssemblyInfoInputs.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.AssemblyInfo.cs
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.csproj.CoreCompileInputs.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.sourcelink.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/refint/primeiraAplicação.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.pdb
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/primeiraAplicação.genruntimeconfig.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/obj/Debug/net9.0/ref/primeiraAplicação.dll

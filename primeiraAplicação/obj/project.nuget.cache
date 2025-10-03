@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1CCOXddGuH4=",
+  "success": true,
+  "projectFilePath": "/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/primeiraAplicação/primeiraAplicação.csproj",
+  "expectedPackageFiles": [
+    "/home/vinicius/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
