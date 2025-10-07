@@ -1,0 +1,15 @@
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/bin/Debug/net9.0/praticandoVariaveisC#
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/bin/Debug/net9.0/praticandoVariaveisC#.deps.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/bin/Debug/net9.0/praticandoVariaveisC#.runtimeconfig.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/bin/Debug/net9.0/praticandoVariaveisC#.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/bin/Debug/net9.0/praticandoVariaveisC#.pdb
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.AssemblyInfoInputs.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.AssemblyInfo.cs
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.csproj.CoreCompileInputs.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.sourcelink.json
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/refint/praticandoVariaveisC#.dll
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.pdb
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.genruntimeconfig.cache
+/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/ref/praticandoVariaveisC#.dll
