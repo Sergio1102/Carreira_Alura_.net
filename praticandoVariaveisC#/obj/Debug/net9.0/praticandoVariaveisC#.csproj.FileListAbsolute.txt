@@ -7,7 +7,6 @@
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.AssemblyInfoInputs.cache
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.AssemblyInfo.cs
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.csproj.CoreCompileInputs.cache
-/home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.sourcelink.json
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.dll
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/refint/praticandoVariaveisC#.dll
 /home/vinicius/programação/repositorios_git/Carreira_Alura_.net/praticandoVariaveisC#/obj/Debug/net9.0/praticandoVariaveisC#.pdb

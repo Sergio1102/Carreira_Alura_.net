@@ -1,0 +1,6 @@
+# Arquivo de configuração do IDE
+.vscode/
+
+# Saídas de compilação (Build outputs)
+[Bb]in/
+[Oo]bj/
