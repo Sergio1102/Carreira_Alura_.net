@@ -1,3 +1,5 @@
+using Internal;
+
 int opc;
 double celsius, fahrenheit;
 do
@@ -31,4 +33,4 @@ Escolha uma opção: ");
             break;
 
     }
-} while(opc != 3);
+} while (opc != 3);
