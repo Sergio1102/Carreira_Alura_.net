@@ -1,8 +1,12 @@
-﻿Musica musica1 = new Musica();
-musica1.Nome = "Vento no litoral";
-musica1.Artista = "Legião Urbana";
-musica1.Duracao = 366;
-musica1.Disponivel = true;
+﻿Episodio ep1 = new(2, "Técnicas de facilitação", 45);
+ep1.AdicionarConvidados("João");
+ep1.AdicionarConvidados("Maria");
 
-Console.WriteLine(musica1.DescricaoResumida);
-musica1.ExibirFichaTecnica();
+Episodio ep2 = new(1, "Técnicas de aprendizagem", 45);
+ep2.AdicionarConvidados("Daniel");
+ep2.AdicionarConvidados("Guilherme");
+
+Podcast podcast = new("Técnicas faladas", "Vinícius");
+podcast.AdicionarEpisodio(ep1);
+podcast.AdicionarEpisodio(ep2);
+podcast.ExibirDetalhes();
